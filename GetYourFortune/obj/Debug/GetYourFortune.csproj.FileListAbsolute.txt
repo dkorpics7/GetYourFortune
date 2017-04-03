@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\GetYourFortune\GetYourFortune\bin\Debug\GetYourFortune.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\GetYourFortune\GetYourFortune\bin\Debug\GetYourFortune.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\GetYourFortune\GetYourFortune\bin\Debug\GetYourFortune.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\GetYourFortune\GetYourFortune\obj\Debug\GetYourFortune.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\GetYourFortune\GetYourFortune\obj\Debug\GetYourFortune.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\GetYourFortune\GetYourFortune\obj\Debug\GetYourFortune.pdb
